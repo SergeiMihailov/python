@@ -23,12 +23,12 @@ class Calc:
         return result_minus
 
     def umn(self, num1, num2):
-        result_multiply = num1 * num2
-        return result_multiply
+        result_umn = num1 * num2
+        return result_umn
 
     def delenie(self, num1, num2):
-        result_division = num1 / num2
-        return result_division
+        result_delenie = num1 / num2
+        return result_delenie
 
     def step(self, num1, num2):
         result_pow = pow(num1, num2)
